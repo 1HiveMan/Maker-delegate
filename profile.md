@@ -48,7 +48,8 @@ I have a few hundred posts on various topics related to my core values above tha
 
 [MakerMan Maker Forum Posts](https://forum.makerdao.com/u/makerman/)
 
-**Key Highlights**
+## Key Highlights
+
 After BlackThursday(BT) the effects on vault owners were still not recognized.  I started up a thread for vault holders to vent, which lead to my work spearheading the Black Thursday Report for the community and an initiative regarding compensation for affected vault holders.
 
 [Black Thursday Vault owners report thread](https://forum.makerdao.com/t/black-thursday-vault-owners-report-thread)
@@ -61,7 +62,7 @@ For various reasons, I burned out on the Maker community for a time and took a b
 
 Without compensation at levels above my current employ, my ability to work will be limited to what is strictly necessary to steward over the Maker system to fulfill the above commitments. As a delegate, I promise to be respectful even if I vehemently disagree with a view, listen to all parties no matter what their views, to be a fair decision maker, and open with my views. Good data or cogent argument can and will change my mind on any topic. I also pledge near 100% poll participation unless acts of God interviene. I will stand by all executives to secure the system unless I have strong opposition toward them, in which case, I will make my views publicly known.
 
-**Potential Conflicts and Alignments of Interest.
+**Potential Conflicts and Alignments of Interest**
 
 * I have a vault and typically borrow from time to time.
 * I am a MKR owner my ownership percentage is small relative to my total portfolio.
@@ -79,31 +80,3 @@ Finally will do my best to communicate with the community regarding my views and
 **Waver of liability**
 
 By delegating to MakerMan you acknowledge and agree that MakerMan will not be held liable for any form of damages or losses related to your delegation of your MKR to MakerMan. By delegating your MKR you still assume full responsibility for votes made on your behalf by MakerMan due to your ownership of MKR. It is your responsibility to understand the risks and costs related to delegation of your MKR, and specifically affirm and agree that at all times you have complete control over this by adding or removing your MKR from my delegation contract.
-
-**Examples of articles involving functionality:**
-
- [Governance overhead](https://forum.makerdao.com/t/maker-governance-overhead/1129)
- 
-[Dependence on major token holders](https://forum.makerdao.com/t/governance-forget-about-whales/4995)
-
-[Shareholder vs Tokenholder](https://forum.makerdao.com/t/governance-the-mkr-lifestyle/5165)
-
-
-**Other work:**
-
-[Not afraid to sometimes do a hard but necessary job](https://forum.makerdao.com/t/campaigning-vote-no-on-inclusion-poll-for-strategic-marcomms-core-unit-mip-set-may-10-2021/7951/5)
-
-[Telling it like it is](https://forum.makerdao.com/t/core-unit-mandate-overlap/7210)
-
-[Trying to be constructive](https://forum.makerdao.com/t/informal-poll-marketing-maker/8700)
-
-## What you get when you delegate to me:
-* Full-time crypto enthusiast, an investor in Maker since 2016.
-* Near-total interest alignment, basically looking after my most substantial investment anyway.
-* [High attendance rate](https://forum.makerdao.com/badges/47/devotee?username=planet_x)
-
-
-## Conflicts of Interest
-I hold other cryptos in addition to MKR, but the relative amounts are such that I do not think it will impair my judgment. If significant portfolio changes are made, I will notify the community.
-
-I hereby agree to the [Delegate Code of Conduct](https://forum.makerdao.com/t/recognised-delegate-code-of-conduct/9384)
