@@ -17,26 +17,26 @@ Email: DaiMakerMan@gmail.com
 
 Delegate Address: 0x22d5294a23d49294Bf11D9db8bEda36e104ad9b3
 ## Core Values
-* Stakeholder Recognition - Micro to Macrocosm. People are important, too.
-* Secure, Sustainable and Scaleable Systems.
-* Importance of Data Analytics to Goal achievement and problem solving.
+* **Stakeholder Recognition** - Micro to Macrocosm. People are important, too.
+* **Secure, Sustainable and Scaleable Systems.**
+* **Importance of Data Analytics** to Goal achievement and problem solving.
 
 ## Delegate Statement
 My service to Maker involves the following commitments:
 
 * In good and bad economic times, look out for all the important Maker work-economic stakeholders (MKR holders, vault owners, DAI holder and users, MakerDAO, DeFI in general etc.).
-* To looking at the system of Maker from both the internal microcosms of contracts, people, operations to the greater macrocosms of DeFI and the real world in terms of governance, law, and finance.
-* To creating Safe, Scalable and Sustainable Systems as Simply and Efficiently as possible.
-* To growing Maker in a way that is Sustainable for the long term.
-* To use Data driven analytics to drive decision-making to achieve goals.  Look towards the future by analyzing the past and present.
+* To looking at the system of Maker from both the internal **microcosms** of contracts, people, operations to the greater **macrocosms** of DeFI and the real world in terms of governance, law, and finance.
+* To creating **Safe, Scalable and Sustainable Systems** as Simply and Efficiently as possible.
+* To **growing** Maker in a way that is Sustainable for the long term.
+* To use **Data driven analytics** to drive decision-making to achieve goals.  Look towards the future by analyzing the past and present.
 
 I arrived at Maker just as the transition from Single Collateral DAI (SCD/SAI) to MultiCollateral DAI (MCD/DAI) was occuring in November 2019. My goals are to consistently to ask the hard questions, look towards building a sustainable future, and doing this by looking at the system from the perspectives of all players using any and all available data. My ideas tend not to be implemented immediately because they break the mold of the ‘what-are-we-doing-today’ mentality that almost every organization I have been a part of does. Therefore, I look for the things that yield the greatest return in the shortest time for the least cost that is good for all stakeholders and the entire ecosystem. I see Maker as rapidly approaching the scale of many smaller nations financially, and so it is going to have to work at a fully international scale and view to navigate deep and difficult waters as it grows from 10B to 1T in assets under management. Maker desperately needs a diverse set of greater minds to focus efforts, both to be efficient, effective and forward thinking. In the highly competitive crypto/defi environment Maker needs to move faster, do it more efficiently, and above all, be willing to be first. This will mean some possible mis-steps, and some potential losses, but with proper management, Maker can continue to stand as a key leader and mover in the fast-paced blockchain Decentralized Finance space.
 
 My goals:
 
-1.  Grow Maker to becoming a $1T entity with a focus on anti-fragility, decentralization, reducing systemic and user risk, using data/analytics to drive goal achievement.
-2.  Continue to work to drive Maker into being one of the most secure, reliable, fully transparent protocols in the space.
-3.  Exemplify excellence, integrity, honesty, and openness in the space with action by looking at both the microcosm of the DAO and system of contracts, and Maker integration into the larger DeFI ecosystems as well as how it will integrate into greater Real World of assets, finance, law and politics.
+1.  **Grow Maker to becoming a $1T entity** with a focus on *anti-fragility, decentralization, reducing systemic and user risk, using data/analytics* to drive goal achievement.
+2.  Continue to work to drive Maker into being one of the most *secure, reliable, fully transparent* protocols in the space.
+3.  Exemplify *excellence, integrity, honesty, and openness* in the space with action by looking at both the microcosm of the DAO and system of contracts, and Maker integration into the larger DeFI ecosystems as well as how it will integrate into greater Real World of assets, finance, law and politics.
 
 My introduction to Maker was started with a new forum thread where I encouraged people to introduce themselves and to learn the Maker basics.
 
