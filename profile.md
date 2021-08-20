@@ -48,7 +48,7 @@ I have a few hundred posts on various topics related to my core values above tha
 
 [MakerMan Maker Forum Posts](https://forum.makerdao.com/u/makerman/)
 
-## Key Highlights
+**Key Highlights**
 
 After BlackThursday(BT) the effects on vault owners were still not recognized.  I started up a thread for vault holders to vent, which lead to my work spearheading the Black Thursday Report for the community and an initiative regarding compensation for affected vault holders.
 
